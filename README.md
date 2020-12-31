@@ -4,7 +4,7 @@
 
 ### WeatherPy - I was asked to select 500+ cities at random from around the world. With this data, I had to create varies graphs on the following;
 
-#### Temperature (K) vs. Latitude
+#### Temperature (F) vs. Latitude
 #### Humidity (%) vs. Latitude
 #### Cloudiness (%) vs. Latitude
 #### Wind Speed (mph) vs. Latitude
@@ -19,4 +19,4 @@
 
 #### Trend 4 - There is no strong correlation between Latitude and Wind Speed.
 
-## Heatmap for VacationPy is saved as a png in the output_data folder as "VacationPy_Maps".
+## Heatmap for VacationPy is saved as a png in the output_data folder as "VacationPy_map".
